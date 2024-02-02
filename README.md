@@ -30,14 +30,14 @@ The `Libft` project is about creating a C library of implementations of the orig
 ---
 
 
-## ⚙️ Modules
+## ⚙️ What will you find?
 
-<details closed><summary>Root</summary>
+<details closed><summary>Header && Makefile</summary>
 
 | File                                                                                           | Summary       |
 | ---                                                                                            | ---           |
-| [libft.h](https://github.com/San-tito/Libft/blob/main/libft.h)                                 | Header file with function prototypes |im
-| [Makefile](https://github.com/San-tito/Libft/blob/main/Makefile)                               | Makefile for compiling the library |
+| libft.h                                | Header file with function prototypes |im
+| Makefile                               | Makefile for compiling the library |
 
 </details>
 
@@ -46,29 +46,29 @@ The `Libft` project is about creating a C library of implementations of the orig
 
 | File                                                                                           | Summary       |
 | ---                                                                                            | ---           |
-| [ft_toupper.c](https://github.com/San-tito/Libft/blob/main/ft_toupper.c)                       | Convert character to uppercase |
-| [ft_tolower.c](https://github.com/San-tito/Libft/blob/main/ft_tolower.c)                       | Convert character to uppercase |
-| [ft_strrchr.c](https://github.com/San-tito/Libft/blob/main/ft_strrchr.c)                       | Locate character in string from the end |
-| [ft_strnstr.c](https://github.com/San-tito/Libft/blob/main/ft_strnstr.c)                       | Locate substring in string |
-| [ft_strncmp.c](https://github.com/San-tito/Libft/blob/main/ft_strncmp.c)                       | Compare two strings up to a specified number of characters |
-| [ft_strlen.c](https://github.com/San-tito/Libft/blob/main/ft_strlen.c)                         | Calculate the length of a string |
-| [ft_strlcpy.c](https://github.com/San-tito/Libft/blob/main/ft_strlcpy.c)                       | Copy a string to a specified size |
-| [ft_strlcat.c](https://github.com/San-tito/Libft/blob/main/ft_strlcat.c)                       | Concatenate strings with a specified size |
-| [ft_strdup.c](https://github.com/San-tito/Libft/blob/main/ft_strdup.c)                         | Duplicate a string with malloc |
-| [ft_strchr.c](https://github.com/San-tito/Libft/blob/main/ft_strchr.c)                         | Locate character in string |
-| [ft_memset.c](https://github.com/San-tito/Libft/blob/main/ft_memset.c)                         | Fill memory with a constant byte |
-| [ft_memmove.c](https://github.com/San-tito/Libft/blob/main/ft_memmove.c)                       | Copy memory area |
-| [ft_memcpy.c](https://github.com/San-tito/Libft/blob/main/ft_memcpy.c)                         | Copy memory area |
-| [ft_memcmp.c](https://github.com/San-tito/Libft/blob/main/ft_memcmp.c)                         | Compare memory areas |
-| [ft_memchr.c](https://github.com/San-tito/Libft/blob/main/ft_memchr.c)                         | Locate byte in byte string |
-| [ft_isprint.c](https://github.com/San-tito/Libft/blob/main/ft_isprint.c)                       | Check if a character is printable |
-| [ft_isdigit.c](https://github.com/San-tito/Libft/blob/main/ft_isdigit.c)                       | Check if a character is a digit |
-| [ft_isascii.c](https://github.com/San-tito/Libft/blob/main/ft_isascii.c)                       | Check if a character is an ASCII character |
-| [ft_isalpha.c](https://github.com/San-tito/Libft/blob/main/ft_isalpha.c)                       | Check if a character is an alphabet character |
-| [ft_isalnum.c](https://github.com/San-tito/Libft/blob/main/ft_isalnum.c)                       | Check if a character is alphanumeric |
-| [ft_calloc.c](https://github.com/San-tito/Libft/blob/main/ft_calloc.c)                         | Allocate and zero-initialize array |
-| [ft_bzero.c](https://github.com/San-tito/Libft/blob/main/ft_bzero.c)                           | Set a byte string to zero |
-| [ft_atoi.c](https://github.com/San-tito/Libft/blob/main/ft_atoi.c)                             | Convert a string to an integer |
+| ft_toupper.c                       | Convert character to uppercase |
+| ft_tolower.c                       | Convert character to lowercase |
+| ft_strrchr.c                       | Returns a pointer to the last occurrence of a characater |
+| [ft_strnstr.c]                     | Locate substring in string, where not more than 'len' characters are searched |
+| ft_strncmp.c                       | Compare two strings up to a specified number of characters |
+| ft_strlen.c                        | Calculate the length of a string |
+| ft_strlcpy.c                       | Copy a string to a specified size |
+| ft_strlcat.c                       | Concatenate strings with a specified size |
+| ft_strdup.c                        | Duplicate a string passed as parameter to give a fresh string |
+| ft_strchr.c                        | Returns a pointer to the first occurrence of a characater |
+| ft_memset.c                        | Fill 'n' bytes of memory with a constant byte |
+| ft_memmove.c                       | Copy memory area taking care of overlap|
+| ft_memcpy.c                        | Copy memory area |
+| ft_memcmp.c                        | Compare memory areas |
+| ft_memchr.c                        | Scans the initial 'n' bytes of the memory area looking for an occurrence |
+| ft_isprint.c                       | Check if a character is printable [ASCII TABLE] |
+| ft_isdigit.c                       | Check if a character is a digit |
+| ft_isascii.c                       | Check if a character is an ASCII character |
+| ft_isalpha.c                       | Check if a character is an alphabet character |
+| ft_isalnum.c                       | Check if a character is alphanumeric |
+| ft_calloc.c                        | Allocate memory fill it with zeros '\0' |
+| ft_bzero.c                         | Erase 'n' bytes of data by writing zeros '\0' |
+| ft_atoi.c                          | Convert a string to an integer |
 
 </details>
 
