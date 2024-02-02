@@ -8,9 +8,9 @@
 
 ## 📖 Table of Contents
 - [📖 Table of Contents](#-table-of-contents)
-- [📍 Overview](#-overview)
+- [📍 Overview 📍](#-overview)
 - [📂 repository Structure](#-repository-structure)
-- [⚙️ Modules](#modules)
+- [🔎 What will you find?](#modules)
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Use Libft](#-use-Libft)
@@ -29,8 +29,15 @@ The `Libft` project is about creating a C library of implementations of the orig
 
 ---
 
+## 📍 Norm && Moist 📍
 
-## 🔎 What will you find? 🔎
+The `Libft` project is about creating a C library of implementations of the original standard C library functions.
+
+
+---
+
+
+## 🔎 What will you find?
 
 <details closed><summary>Header && Makefile</summary>
 
@@ -49,7 +56,7 @@ The `Libft` project is about creating a C library of implementations of the orig
 | ft_toupper.c                       | Convert character to uppercase |
 | ft_tolower.c                       | Convert character to lowercase |
 | ft_strrchr.c                       | Returns a pointer to the last occurrence of a characater |
-| [ft_strnstr.c]                     | Locate substring in string, where not more than 'len' characters are searched |
+| ft_strnstr.c                       | Locate substring in string, where not more than 'len' characters are searched |
 | ft_strncmp.c                       | Compare two strings up to a specified number of characters |
 | ft_strlen.c                        | Calculate the length of a string |
 | ft_strlcpy.c                       | Copy a string to a specified size |
