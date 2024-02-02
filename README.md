@@ -22,7 +22,7 @@
 
 ---
 
-## 📍 Overview
+## 📍 Overview 📍
 
 The `Libft` project is about creating a C library of implementations of the original standard C library functions.
 
@@ -30,7 +30,7 @@ The `Libft` project is about creating a C library of implementations of the orig
 ---
 
 
-## ⚙️ What will you find?
+## 🔎 What will you find? 🔎
 
 <details closed><summary>Header && Makefile</summary>
 
@@ -42,7 +42,7 @@ The `Libft` project is about creating a C library of implementations of the orig
 </details>
 
 
-<details closed><summary>Libc functions</summary>
+<details closed><summary>Standard C Library Functions</summary>
 
 | File                                                                                           | Summary       |
 | ---                                                                                            | ---           |
@@ -72,43 +72,43 @@ The `Libft` project is about creating a C library of implementations of the orig
 
 </details>
 
-<details closed><summary>Additional functions</summary>
+<details closed><summary>Additional Functions</summary>
 
 | File                                                                                           | Summary       |
 | ---                                                                                            | ---           |
-| [ft_substr.c](https://github.com/San-tito/Libft/blob/main/ft_substr.c)                         | Extract substring from string |
-| [ft_strjoin.c](https://github.com/San-tito/Libft/blob/main/ft_strjoin.c)                       | Concatenate two strings |
-| [ft_strtrim.c](https://github.com/San-tito/Libft/blob/main/ft_strtrim.c)                       | Trim leading and trailing a character from a string|
-| [ft_split.c](https://github.com/San-tito/Libft/blob/main/ft_split.c)                           | Split a string into an array of substrings |
-| [ft_itoa.c](https://github.com/San-tito/Libft/blob/main/ft_itoa.c)                             | Convert an integer to a string |
-| [ft_strmapi.c](https://github.com/San-tito/Libft/blob/main/ft_strmapi.c)                       | Apply a function to each character of a string |
-| [ft_striteri.c](https://github.com/San-tito/Libft/blob/main/ft_striteri.c)                     | Apply a function to each character of a string with its index |
-| [ft_putstr_fd.c](https://github.com/San-tito/Libft/blob/main/ft_putstr_fd.c)                   | Output a string to a file descriptor |
-| [ft_putnbr_fd.c](https://github.com/San-tito/Libft/blob/main/ft_putnbr_fd.c)                   | Output an integer to a file descriptor |
-| [ft_putendl_fd.c](https://github.com/San-tito/Libft/blob/main/ft_putendl_fd.c)                 | Output a string to a file descriptor, followed by a newline |
-| [ft_putchar_fd.c](https://github.com/San-tito/Libft/blob/main/ft_putchar_fd.c)                 | Output a character to a file descriptor |
+| ft_substr.c                     | Extract substring from string |
+| ft_strjoin.c                    | Concatenate two strings giving as result a fresh string |
+| ft_strtrim.c                    | Trim a character from front and back of a string|
+| ft_split.c                      | Split a string into an array of substrings |
+| ft_itoa.c                       | Convert an integer to a string |
+| ft_strmapi.c                    | Apply a function to each character of a string |
+| ft_striteri.c                   | Apply a function to each character of a string with its index |
+| ft_putstr_fd.c                  | Output a string to a file descriptor |
+| ft_putnbr_fd.c                  | Output an integer to a file descriptor |
+| ft_putendl_fd.c                 | Output a string to a file descriptor, followed by a newline |
+| ft_putchar_fd.c                 | Output a character to a file descriptor |
 
 </details>
 
-<details closed><summary>Bonus</summary>
+<details closed><summary>Functions for Lists</summary>
 
 | File                                                                                           | Summary       |
 | ---                                                                                            | ---           |
-| [ft_lstsize_bonus.c](https://github.com/San-tito/Libft/blob/main/ft_lstsize_bonus.c)           | Count the number of elements in a list |
-| [ft_lstnew_bonus.c](https://github.com/San-tito/Libft/blob/main/ft_lstnew_bonus.c)             | Create a new list element |
-| [ft_lstmap_bonus.c](https://github.com/San-tito/Libft/blob/main/ft_lstmap_bonus.c)             | Apply a function to each element of a list and create a new list |
-| [ft_lstlast_bonus.c](https://github.com/San-tito/Libft/blob/main/ft_lstlast_bonus.c)           | Return the last element of a list |
-| [ft_lstiter_bonus.c](https://github.com/San-tito/Libft/blob/main/ft_lstiter_bonus.c)           | Apply a function to each element of a list |
-| [ft_lstdelone_bonus.c](https://github.com/San-tito/Libft/blob/main/ft_lstdelone_bonus.c)       | Delete a list element |
-| [ft_lstclear_bonus.c](https://github.com/San-tito/Libft/blob/main/ft_lstclear_bonus.c)         | Delete and free a list |
-| [ft_lstadd_front_bonus.c](https://github.com/San-tito/Libft/blob/main/ft_lstadd_front_bonus.c) | Add a new element at the beginning of the list |
-| [ft_lstadd_back_bonus.c](https://github.com/San-tito/Libft/blob/main/ft_lstadd_back_bonus.c)   | Add a new element at the end of the list |
+| ft_lstsize_bonus.c        | Count the number of elements in a list |
+| ft_lstnew_bonus.c         | Create a new list element |
+| ft_lstmap_bonus.c         | Apply a function to each element of a list and create a new list |
+| ft_lstlast_bonus.c        | Return the last element of a list |
+| ft_lstiter_bonus.c        | Apply a function to each element of a list |
+| ft_lstdelone_bonus.c      | Delete a list element |
+| ft_lstclear_bonus.c       | Delete and free all the elements of a list |
+| ft_lstadd_front_bonus.c   | Add a new element at the beginning of the list |
+| ft_lstadd_back_bonus.c    | Add a new element at the end of the list |
 
 </details>
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started  🚀 
 
 ### 🔧 Installation
 
