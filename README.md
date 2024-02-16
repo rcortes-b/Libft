@@ -121,7 +121,7 @@ The functions have to follow a strict rule. For example, you cannot intitialize 
 
 1. Clone the Libft repository:
 ```sh
-[git clone https://github.com/San-tito/Libft](https://github.com/rcortes-b/Libft.git)
+git clone https://github.com/rcortes-b/Libft.git
 ```
 
 2. Change to the project directory:
@@ -138,16 +138,10 @@ make
 Once the library is successfully compiled, you can use it in your projects. Link the `libft.a` file to your program, and include the `libft.h` header in your source files.
 To compile your program with Libft, use:
 ```sh
-gcc -o my_program my_program.c -L . -lft
+gcc -o my_file my_file.c -L . -lft
 ```
 
 ---
-
-## 👏 Acknowledgments
-
-- [Master Memory Management](https://medium.com/p/b86fedd39b96)
-- [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html)
-- [libftTester](https://github.com/Tripouille/libftTester)
 
 [**Return**](#Top)
 
