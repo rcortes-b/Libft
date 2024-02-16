@@ -31,7 +31,7 @@ The `Libft` project is about creating a C library of implementations of the orig
 
 ## 📍 Norm && Moist 📍
 
-The `Libft` project is about creating a C library of implementations of the original standard C library functions.
+The functions have to follow a strict rule. For example, you cannot intitialize a variable when you declare it.
 
 
 ---
