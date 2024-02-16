@@ -29,9 +29,9 @@ The `Libft` project is about creating a C library of implementations of the orig
 
 ---
 
-## 📍 Norm && Moist 📍
+## 📍 Rules 📍
 
-The functions have to follow a strict rule. For example, you cannot intitialize a variable when you declare it.
+The functions have to follow a strict rule. For example, you cannot intitialize a variable in the line where you declare it.
 
 
 ---
@@ -121,7 +121,7 @@ The functions have to follow a strict rule. For example, you cannot intitialize 
 
 1. Clone the Libft repository:
 ```sh
-git clone https://github.com/San-tito/Libft
+[git clone https://github.com/San-tito/Libft](https://github.com/rcortes-b/Libft.git)
 ```
 
 2. Change to the project directory:
