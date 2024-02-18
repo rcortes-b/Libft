@@ -14,11 +14,7 @@
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Use Libft](#-use-Libft)
-    - [🧪 Tests](#-tests)
-- [🛣 Roadmap](#-roadmap)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [👏 Acknowledgments](#-acknowledgments)
+- [Extra: Check out my profile on the Intranet](#--check-my-profile-on-the-intra-of-42-school-%EF%B8%8F)
 
 ---
 
@@ -140,6 +136,8 @@ To compile your program with Libft, use:
 ```sh
 gcc -o my_file my_file.c -L . -lft
 ```
+### - Check out my profile on the intra of 42 school ↙️
+[https://profile.intra.42.fr/users/rcortes-]
 
 ---
 
