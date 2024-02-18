@@ -7,14 +7,13 @@
 ---
 
 ## 📖 Table of Contents
-- [📖 Table of Contents](#-table-of-contents)
-- [📍 Overview 📍](#-overview)
-- [📂 repository Structure](#-repository-structure)
-- [🔎 What will you find?](#modules)
-- [🚀 Getting Started](#-getting-started)
+- [📍 Overview 📍](#-overview-)
+- [📍 Rules 📍](#-rules-)
+- [🔎 What will you find?](#-what-will-you-find)
+- [🚀 Getting Started](#-getting-started--)
     - [🔧 Installation](#-installation)
     - [🤖 Use Libft](#-use-Libft)
-- [Extra: Check out my profile on the Intranet](#--check-my-profile-on-the-intra-of-42-school-%EF%B8%8F)
+- [Extra: Check out my profile on the Intranet](#--check-out-my-profile-on-the-intra-of-42-school-%EF%B8%8F)
 
 ---
 
